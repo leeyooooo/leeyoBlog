@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>LeeYo's Blog Blog</title>
+        <link>https://leeyooooo.github.io/leeyoBlog/en/blog</link>
+        <description>LeeYo's Blog Blog</description>
+        <lastBuildDate>Sun, 17 Sep 2023 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[first-post]]></title>
+            <link>https://leeyooooo.github.io/leeyoBlog/en/blog/welcome</link>
+            <guid>https://leeyooooo.github.io/leeyoBlog/en/blog/welcome</guid>
+            <pubDate>Sun, 17 Sep 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[testing first post!]]></description>
+            <content:encoded><![CDATA[<p>testing first post!</p>]]></content:encoded>
+            <category>docusaurus</category>
+        </item>
+    </channel>
+</rss>
