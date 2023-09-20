@@ -9,12 +9,12 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[first-post]]></title>
+            <title><![CDATA[第一篇文]]></title>
             <link>https://leeyooooo.github.io/leeyoBlog/en/blog/welcome</link>
             <guid>https://leeyooooo.github.io/leeyoBlog/en/blog/welcome</guid>
             <pubDate>Sun, 17 Sep 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[testing first post!]]></description>
-            <content:encoded><![CDATA[<p>testing first post!</p>]]></content:encoded>
+            <description><![CDATA[從今天開始記錄所有的心得跟筆記在這邊，看到PJ大大的筆記想要效仿!!!]]></description>
+            <content:encoded><![CDATA[<p>從今天開始記錄所有的心得跟筆記在這邊，看到PJ大大的筆記想要效仿!!!</p>]]></content:encoded>
             <category>docusaurus</category>
         </item>
     </channel>

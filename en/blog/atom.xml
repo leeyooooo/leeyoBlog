@@ -8,12 +8,12 @@
     <subtitle>LeeYo's Blog Blog</subtitle>
     <icon>https://leeyooooo.github.io/leeyoBlog/en/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[first-post]]></title>
+        <title type="html"><![CDATA[第一篇文]]></title>
         <id>https://leeyooooo.github.io/leeyoBlog/en/blog/welcome</id>
         <link href="https://leeyooooo.github.io/leeyoBlog/en/blog/welcome"/>
         <updated>2023-09-17T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[testing first post!]]></summary>
-        <content type="html"><![CDATA[<p>testing first post!</p>]]></content>
+        <summary type="html"><![CDATA[從今天開始記錄所有的心得跟筆記在這邊，看到PJ大大的筆記想要效仿!!!]]></summary>
+        <content type="html"><![CDATA[<p>從今天開始記錄所有的心得跟筆記在這邊，看到PJ大大的筆記想要效仿!!!</p>]]></content>
         <author>
             <name>Lee Yo</name>
             <uri>https://github.com/leeyooooo</uri>
