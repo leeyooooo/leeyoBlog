@@ -80,7 +80,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        copyright: `Copyright © ${new Date().getFullYear()} Lee yoooooo.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Lee yo.`,
       },
       prism: {
         theme: lightCodeTheme,
